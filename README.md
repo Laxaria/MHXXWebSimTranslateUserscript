@@ -7,6 +7,8 @@ This tool takes the Japanese text and translates it into its English in-game equ
 * http://mhxx.wiki-db.com/sim/?hl=en#/*
 * http://mhxx.wiki-db.com/sim/show/*
 
+A video demonstration can be found here: https://i.imgur.com/yAeBtcq.mp4
+
 ### Disclaimers
 
 This script is not perfect. Please note the following:
