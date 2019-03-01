@@ -1,5 +1,7 @@
 ## MHXX Online Web Sim Translate Script
 
+**THIS USERSCRIPT IS OUTDATED AS THE WEB APP NOW HAS ENGLISH**
+
 This is a userscript to translate the online MHXX armor sim tool (http://mhxx.wiki-db.com/sim/?hl=en#) into English.
 
 This tool takes the Japanese text and translates it into its English in-game equivalent. This userscript applies to both:
